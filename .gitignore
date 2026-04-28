@@ -3,6 +3,8 @@
 TODO
 __pycache__
 *.egg-info/
+.eggs
 /build/
 /dist/
+.tox
 tests/tutor-sandbox
